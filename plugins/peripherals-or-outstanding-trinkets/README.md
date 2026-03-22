@@ -1,5 +1,5 @@
 **UPDATED 3/22/2026, for ES Unstable 0.11.0**
- - [Download POOT Alpha 0.1.0]() (Latest)
+ - [Download POOT Alpha 0.1.0](https://github.com/Eggapegawsus/Eggapegawsus-endless-sky-plugins/releases/download/v0.1.0-POOT-alpha/peripherals-or-outstanding-trinkets-ALPHA-0-1-0.zip) (Latest)
 
 ![Peripherals or Outstanding Trinkets](/images/header_poot.png)
 # Peripherals Or Outstanding Trinkets. 
